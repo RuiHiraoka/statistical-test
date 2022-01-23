@@ -1,1 +1,2 @@
 # statistical-test
+BootStarp検定という特殊な統計検定をするためのソース
